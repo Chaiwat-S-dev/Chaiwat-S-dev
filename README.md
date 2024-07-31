@@ -4,7 +4,7 @@ Hi 👋 My name is Chaiwat Sae-jiw
 Backend developer
 -----------------
 
-I had been embeded engineer for 3 years and now I'm backend developer at Swift dynamics.co.ltd. I'm passionate in coding and learning new programming language, framework and technical skill, in order to improve my skill & my potential. I'm work hard and trying to become full-stack developer.
+I am software embeded engineer for 3 years and now I'm backend developer at Swift dynamics.co.ltd. I'm passionate in coding and learning new programming language, framework and technical skill, in order to improve my skill & my potential. I'm work hard and trying to become full-stack developer.
 
 * 🌍  I'm based in Jatujak/Bangkok
 * ✉️  You can contact me at [kenkent122@gmail.com](mailto:kenkent122@gmail.com)
