@@ -62,7 +62,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
 
 **🐱 My GitHub Data** 
 
@@ -140,5 +140,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2024 14:14:06 UTC
+ Last Updated on 14/11/2024 16:19:19 UTC
 <!--END_SECTION:waka-->
