@@ -68,8 +68,6 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 
 > 📦 10.2 kB Used in GitHub's Storage 
  > 
-> 🏆 260 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -140,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2024 12:24:05 UTC
+ Last Updated on 17/11/2024 18:17:01 UTC
 <!--END_SECTION:waka-->
