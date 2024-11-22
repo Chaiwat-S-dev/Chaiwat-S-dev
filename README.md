@@ -60,13 +60,15 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-50-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 260 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,24 +103,24 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       9 hrs 8 mins        ████████████████████████░   96.80 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+C#                       7 hrs 2 mins        ███████████████████████░░   91.70 % 
+Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Visual Studio            9 hrs 19 mins       █████████████████████████   98.84 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Visual Studio            7 hrs 13 mins       ████████████████████████░   94.17 % 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 
 🐱‍💻 Projects: 
-cdp-backend              9 hrs 19 mins       █████████████████████████   98.84 % 
-7solution                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+cdp-backend              7 hrs 13 mins       ████████████████████████░   94.17 % 
+7solution                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Chaiwat-S-dev            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  9 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +140,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2024 18:18:54 UTC
+ Last Updated on 22/11/2024 01:05:55 UTC
 <!--END_SECTION:waka-->
