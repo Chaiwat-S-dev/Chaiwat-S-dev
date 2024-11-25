@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C070%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-47-blue)
 
@@ -103,20 +103,20 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       7 hrs 1 min         ███████████████████████░░   91.27 % 
-Other                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+C#                       7 hrs 1 min         ███████████████████████░░   91.19 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
 JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 Binary                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 Go                       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-Visual Studio            7 hrs 15 mins       ████████████████████████░   94.19 % 
-VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Visual Studio            7 hrs 15 mins       ████████████████████████░   94.10 % 
+VS Code                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 
 🐱‍💻 Projects: 
-cdp-backend              6 hrs 21 mins       █████████████████████░░░░   82.45 % 
-Demo_web_api             54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-7solution                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+cdp-backend              6 hrs 21 mins       █████████████████████░░░░   82.38 % 
+Demo_web_api             54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+7solution                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 test                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 Chaiwat-S-dev            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
@@ -141,5 +141,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2024 18:16:54 UTC
+ Last Updated on 25/11/2024 01:06:46 UTC
 <!--END_SECTION:waka-->
