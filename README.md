@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C087%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,22 +103,16 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       3 hrs 53 mins       ██████████████████████░░░   88.65 % 
-Binary                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C#                       3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            4 hrs 17 mins       ████████████████████████░   97.80 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Visual Studio            3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cdp-backend              4 hrs 17 mins       ████████████████████████░   97.80 % 
-7solution                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+cdp-backend              3 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 22 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +132,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/12/2024 18:19:36 UTC
+ Last Updated on 07/12/2024 01:07:04 UTC
 <!--END_SECTION:waka-->
