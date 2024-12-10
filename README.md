@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C089%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,16 +103,16 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       3 hrs 16 mins       █████████████████████████   100.00 % 
+C#                       4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Visual Studio            3 hrs 16 mins       █████████████████████████   100.00 % 
+Visual Studio            4 hrs 10 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cdp-backend              3 hrs 16 mins       █████████████████████████   100.00 % 
+cdp-backend              4 hrs 10 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,5 +132,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 18:20:27 UTC
+ Last Updated on 10/12/2024 01:09:16 UTC
 <!--END_SECTION:waka-->
