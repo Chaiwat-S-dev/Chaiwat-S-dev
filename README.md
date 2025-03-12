@@ -60,15 +60,13 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.4 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,24 +101,24 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       28 hrs 5 mins       █████████████████████░░░░   83.47 % 
-TypeScript               4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Bash                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Go                       29 hrs 19 mins      ██████████████████████░░░   87.97 % 
+TypeScript               2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
 Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dashboard                8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-towing                   8 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-job                      7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-back-office-api          4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-job-crontab              1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+dashboard                9 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+towing                   7 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+job                      4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+car-service              3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+back-office-api          2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 
 💻 Operating System: 
-Mac                      33 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      33 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:19:32 UTC
+ Last Updated on 12/03/2025 01:04:59 UTC
 <!--END_SECTION:waka-->
