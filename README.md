@@ -60,13 +60,15 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C718%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,24 +103,24 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       22 hrs 40 mins      ████████████████████████░   95.60 % 
-Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Protocol Buffer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Go                       26 hrs 47 mins      ████████████████████████░   96.25 % 
+Bash                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Protocol Buffer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-villix-service-api       21 hrs 4 mins       ██████████████████████░░░   88.86 % 
-master-data              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-job                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-file-manager-client      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-promotion                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+villix-service-api       24 hrs 18 mins      ██████████████████████░░░   87.33 % 
+master-data              1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+rest-response            53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+job                      22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+file-manager-client      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 
 💻 Operating System: 
-Mac                      23 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +140,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2025 18:21:06 UTC
+ Last Updated on 11/06/2025 01:14:24 UTC
 <!--END_SECTION:waka-->
