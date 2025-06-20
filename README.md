@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -139,5 +139,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2025 06:22:39 UTC
+ Last Updated on 20/06/2025 12:31:26 UTC
 <!--END_SECTION:waka-->
