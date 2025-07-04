@@ -103,18 +103,16 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       15 mins             ████████████████████████░   94.20 % 
-HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-villix-service-api       16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -134,5 +132,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/07/2025 18:21:24 UTC
+ Last Updated on 04/07/2025 01:14:23 UTC
 <!--END_SECTION:waka-->
