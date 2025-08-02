@@ -60,15 +60,13 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C826%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C830%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 10.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,16 +101,24 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       11 hrs 29 mins      █████████████████████████   100.00 % 
+Go                       14 hrs 27 mins      ███████████████████████░░   93.96 % 
+TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TSConfig                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 29 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-villix-service-api       11 hrs 29 mins      █████████████████████████   100.00 % 
+villix-service-api       14 hrs 9 mins       ███████████████████████░░   92.02 % 
+Developer Portfolio Websi25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+file-manager-client      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Developer Portfolio Websi18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Developer Portfolio Websi11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 💻 Operating System: 
-Mac                      11 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -132,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2025 18:23:09 UTC
+ Last Updated on 02/08/2025 01:16:59 UTC
 <!--END_SECTION:waka-->
