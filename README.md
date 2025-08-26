@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C895%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,14 +103,14 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       18 hrs 38 mins      ████████████████████████░   96.37 % 
-Other                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Go                       18 hrs 37 mins      ████████████████████████░   96.29 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 🔥 Editors: 
 VS Code                  19 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-villix-service-api       19 hrs 8 mins       █████████████████████████   99.03 % 
+villix-service-api       19 hrs 9 mins       █████████████████████████   99.03 % 
 rest-response            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 
 💻 Operating System: 
@@ -134,5 +134,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2025 18:22:19 UTC
+ Last Updated on 26/08/2025 01:11:14 UTC
 <!--END_SECTION:waka-->
