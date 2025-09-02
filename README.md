@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C923%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,22 +103,22 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       26 hrs 21 mins      ████████████████████████░   94.95 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-GraphQL                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Go                       23 hrs 28 mins      ███████████████████████░░   92.72 % 
+GraphQL                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  25 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-villix-service-api       25 hrs 25 mins      ███████████████████████░░   91.58 % 
-gqlgen-todos             2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-dashboard                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+villix-service-api       22 hrs 49 mins      ███████████████████████░░   90.10 % 
+gqlgen-todos             2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+dashboard                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 💻 Operating System: 
-Mac                      27 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      25 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -138,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2025 18:20:12 UTC
+ Last Updated on 02/09/2025 01:09:41 UTC
 <!--END_SECTION:waka-->
