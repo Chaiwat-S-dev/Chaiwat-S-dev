@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C965%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C969%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -76,54 +76,6 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-🌆 Daytime                36 commits          ██████████░░░░░░░░░░░░░░░   41.86 % 
-🌃 Evening                32 commits          █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Tuesday                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Wednesday                16 commits          █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Thursday                 8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Friday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Sunday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   29.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Go                       24 hrs 57 mins      █████████████████████████   98.46 % 
-Other                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Bash                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  25 hrs 21 mins      █████████████████████████   99.99 % 
-Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🐱‍💻 Projects: 
-villix-service-api       25 hrs 10 mins      █████████████████████████   99.31 % 
-dashboard                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-rest-response            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-python                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Developer Portfolio Websi0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Mac                      25 hrs 21 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -141,5 +93,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2025 18:21:07 UTC
+ Last Updated on 16/09/2025 01:05:40 UTC
 <!--END_SECTION:waka-->
