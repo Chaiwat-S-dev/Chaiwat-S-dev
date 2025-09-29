@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C017%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C018%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,8 +103,8 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       23 hrs 11 mins      ██████████████████████░░░   88.41 % 
-Vue.js                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Go                       23 hrs 11 mins      ██████████████████████░░░   88.40 % 
+Vue.js                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 TypeScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
@@ -113,7 +113,7 @@ TypeScript               11 mins             ░░░░░░░░░░░�
 VS Code                  26 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-villix-service-api       23 hrs 53 mins      ███████████████████████░░   91.10 % 
+villix-service-api       23 hrs 53 mins      ███████████████████████░░   91.09 % 
 villix-juristic          2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 master-data              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
@@ -138,5 +138,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2025 01:09:04 UTC
+ Last Updated on 29/09/2025 06:23:49 UTC
 <!--END_SECTION:waka-->
