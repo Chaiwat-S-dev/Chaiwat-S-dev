@@ -103,17 +103,16 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       32 mins             █████████████████████░░░░   83.70 % 
-Bash                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-go-service               39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -133,5 +132,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2025 18:23:24 UTC
+ Last Updated on 27/12/2025 01:14:58 UTC
 <!--END_SECTION:waka-->
