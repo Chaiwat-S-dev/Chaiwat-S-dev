@@ -60,19 +60,19 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C356%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C357%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 11.1 kB Used in GitHub's Storage 
+> 📦 11.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2025
+> 🏆 3 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -122,11 +122,11 @@ Mac                      1 hr 36 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Python                   12 repos            █████████░░░░░░░░░░░░░░░░   36.36 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
@@ -136,5 +136,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/12/2025 01:17:17 UTC
+ Last Updated on 30/12/2025 06:26:38 UTC
 <!--END_SECTION:waka-->
