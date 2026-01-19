@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C412%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -103,19 +103,19 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       17 hrs 42 mins      █████████████████░░░░░░░░   69.31 % 
+Go                       17 hrs 47 mins      █████████████████░░░░░░░░   69.63 % 
 YAML                     3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 SQL                      2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Bash                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-Vue.js                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
 Cursor                   25 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sumo_mono                23 hrs 16 mins      ███████████████████████░░   91.09 % 
+sumo_mono                23 hrs 21 mins      ███████████████████████░░   91.40 % 
 go-service               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-vue-login-test           17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+vue-login-test           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 villix-service-api       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 💻 Operating System: 
@@ -139,5 +139,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 18/01/2026 18:21:58 UTC
+ Last Updated on 19/01/2026 01:23:25 UTC
 <!--END_SECTION:waka-->
