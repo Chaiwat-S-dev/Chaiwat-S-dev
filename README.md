@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C459%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C465%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -103,21 +103,21 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       17 hrs 26 mins      ████████████████████░░░░░   78.91 % 
-SQL                      2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-YAML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Other                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Go                       18 hrs 43 mins      ████████████████████░░░░░   80.54 % 
+SQL                      2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 5 mins       █████████████████████████   100.00 % 
+Cursor                   23 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sumo_mono                21 hrs 57 mins      █████████████████████████   99.36 % 
-rest-response            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+sumo_mono                23 hrs 12 mins      █████████████████████████   99.79 % 
+rest-response            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      22 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      23 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -137,5 +137,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2026 18:36:34 UTC
+ Last Updated on 03/02/2026 01:47:11 UTC
 <!--END_SECTION:waka-->
