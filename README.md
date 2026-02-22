@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C542%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C542%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,11 +125,11 @@ Mac                      33 hrs 59 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   35.29 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Python                   12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
@@ -139,5 +139,5 @@ Java                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 01:47:21 UTC
+ Last Updated on 22/02/2026 06:40:41 UTC
 <!--END_SECTION:waka-->
