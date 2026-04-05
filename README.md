@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C677%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C680%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -68,11 +68,11 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 
 > 📦 11.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
@@ -127,11 +127,11 @@ Mac                      25 hrs 56 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   12 repos            ████████░░░░░░░░░░░░░░░░░   33.33 % 
+TypeScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Go                       3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
@@ -141,5 +141,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 06:59:16 UTC
+ Last Updated on 05/04/2026 12:45:40 UTC
 <!--END_SECTION:waka-->
