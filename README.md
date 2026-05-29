@@ -60,15 +60,15 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C834%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C833%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 14.2 kB Used in GitHub's Storage 
+> 📦 14.3 kB Used in GitHub's Storage 
  > 
-> 🏆 19 Contributions in the Year 2026
+> 🏆 24 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -79,21 +79,21 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-🌆 Daytime                54 commits          ███████████░░░░░░░░░░░░░░   45.00 % 
-🌃 Evening                48 commits          ██████████░░░░░░░░░░░░░░░   40.00 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+🌃 Evening                57 commits          ███████████░░░░░░░░░░░░░░   42.22 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Tuesday                  31 commits          ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Thursday                 15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Tuesday                  35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Friday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
 ```
 
 
@@ -141,5 +141,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 14:51:54 UTC
+ Last Updated on 29/05/2026 20:13:25 UTC
 <!--END_SECTION:waka-->
