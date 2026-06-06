@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C834%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C835%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
@@ -76,54 +76,6 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                57 commits          ███████████░░░░░░░░░░░░░░   42.22 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Tuesday                  35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Markdown                 50 mins             ██████████████░░░░░░░░░░░   55.29 % 
-YAML                     21 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-TypeScript               11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Go                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-
-🔥 Editors: 
-VS Code                  1 hr 13 mins        ████████████████████░░░░░   81.10 % 
-Claude Code              17 mins             █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-
-🐱‍💻 Projects: 
-react-bootcamp           45 mins             ████████████░░░░░░░░░░░░░   49.79 % 
-pdf-coder-portfolio      16 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-fluxcd-main              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-gisx-outbound-gateway-0.112 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-sumo_mono                3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-
-💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -141,5 +93,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/06/2026 19:47:42 UTC
+ Last Updated on 06/06/2026 02:41:13 UTC
 <!--END_SECTION:waka-->
