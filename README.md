@@ -60,6 +60,8 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C916%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -101,26 +103,26 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       5 hrs 14 mins       ████████████░░░░░░░░░░░░░   47.48 % 
-YAML                     3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-JSON                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-Bru                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Go                       6 hrs 36 mins       █████████████░░░░░░░░░░░░   50.35 % 
+YAML                     3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+JSON                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Bru                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 3 mins        █████████████████████░░░░   82.04 % 
-Claude Code              1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+VS Code                  9 hrs 52 mins       ███████████████████░░░░░░   75.22 % 
+Claude Code              3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Cursor                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🐱‍💻 Projects: 
-gisx-outbound-gateway    6 hrs 49 mins       ███████████████░░░░░░░░░░   61.80 % 
-fluxcd                   2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-postman-sq3              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-api-pre-admission        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+gisx-outbound-gateway    8 hrs 32 mins       ████████████████░░░░░░░░░   65.10 % 
+fluxcd                   3 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+postman-sq3              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+api-pre-admission        19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      11 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -140,5 +142,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:17:37 UTC
+ Last Updated on 25/07/2026 02:09:18 UTC
 <!--END_SECTION:waka-->
