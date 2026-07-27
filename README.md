@@ -60,7 +60,9 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C919%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -125,6 +127,29 @@ Unknown Project          10 mins             ░░░░░░░░░░░�
 Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 52 mins (37.11%)
+
+✍️ 1,557 lines written by AI, 210 lines written by hand (88.12% AI-written)
+
+🔤 68,621,742 Input Tokens, 254,571 Output Tokens
+
+💵 $349.40 Estimated AI Cost This Week
+
+🧠 7 AI Sessions, 20 AI Prompts
+
+Opus                     1,582 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.12% of written lines came from AI
+📄 Detailed Prompter — average 658 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 16.61% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -142,5 +167,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 14:20:42 UTC
+ Last Updated on 27/07/2026 19:19:15 UTC
 <!--END_SECTION:waka-->
