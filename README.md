@@ -60,10 +60,6 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -78,77 +74,6 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
-🌃 Evening                57 commits          ███████████░░░░░░░░░░░░░░   42.22 % 
-🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Tuesday                  35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Friday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Go                       5 hrs 20 mins       ██████████████░░░░░░░░░░░   55.00 % 
-JSON                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-YAML                     1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Bru                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 9 mins        ████████████████░░░░░░░░░   63.34 % 
-Claude Code              3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
-
-🐱‍💻 Projects: 
-gisx-outbound-gateway    7 hrs 13 mins       ███████████████████░░░░░░   74.20 % 
-fluxcd                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-api                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-postman-sq3              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-gisx-api-common          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-💻 Operating System: 
-Mac                      9 hrs 43 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 5 hrs 56 mins (61.1%)
-
-✍️ 1,911 lines written by AI, 82 lines written by hand (95.89% AI-written)
-
-🔤 57,345,015 Input Tokens, 202,463 Output Tokens
-
-💵 $290.24 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 62 AI Prompts
-
-Opus                     2,113 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 95.89% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 5.67% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -166,5 +91,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 13:52:35 UTC
+ Last Updated on 06/08/2026 23:53:34 UTC
 <!--END_SECTION:waka-->
