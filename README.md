@@ -78,6 +78,77 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                60 commits          ███████████░░░░░░░░░░░░░░   44.44 % 
+🌃 Evening                57 commits          ███████████░░░░░░░░░░░░░░   42.22 % 
+🌙 Night                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Tuesday                  35 commits          ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Wednesday                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Friday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Sunday                   25 commits          █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Go                       5 hrs 34 mins       ███████████████░░░░░░░░░░   58.95 % 
+JSON                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+YAML                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 18 mins       █████████████████░░░░░░░░   66.83 % 
+Claude Code              3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+
+🐱‍💻 Projects: 
+gisx-outbound-gateway    6 hrs 49 mins       ██████████████████░░░░░░░   72.33 % 
+api                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+fluxcd                   50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+postman-sq3              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+gisx-api-core            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+💻 Operating System: 
+Mac                      9 hrs 26 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 51 mins (51.38%)
+
+✍️ 1,681 lines written by AI, 84 lines written by hand (95.24% AI-written)
+
+🔤 41,139,961 Input Tokens, 174,885 Output Tokens
+
+💵 $208.53 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 36 AI Prompts
+
+Opus                     1,883 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.24% of written lines came from AI
+📝 Concise Prompter — average 437 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 6.55% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -95,5 +166,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 02:24:18 UTC
+ Last Updated on 07/08/2026 07:06:21 UTC
 <!--END_SECTION:waka-->
