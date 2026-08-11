@@ -60,9 +60,9 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C887%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C889%20hrs%2049%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -105,48 +105,48 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       5 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.69 % 
-YAML                     2 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.43 % 
-JSON                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Git Config               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Go                       4 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.86 % 
+YAML                     3 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.55 % 
+JSON                     1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Git Config               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 52 mins       ██████████████████░░░░░░░   73.61 % 
-Claude Code              2 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+VS Code                  7 hrs 47 mins       ████████████████████░░░░░   78.63 % 
+Claude Code              2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
 
 🐱‍💻 Projects: 
-gisx-outbound-gateway    6 hrs 25 mins       ███████████████░░░░░░░░░░   60.02 % 
-fluxcd                   2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-api                      1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-postman-sq3              10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-gisx-api-core            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+gisx-outbound-gateway    5 hrs 13 mins       █████████████░░░░░░░░░░░░   52.81 % 
+fluxcd                   3 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
+api                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+gisx-api-common          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+gisx-api-core            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      10 hrs 42 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (41.97%)
+⏱ AI Coding Time: 3 hrs 3 mins (30.95%)
 
-✍️ 1,244 lines written by AI, 255 lines written by hand (82.99% AI-written)
+✍️ 1,033 lines written by AI, 252 lines written by hand (80.39% AI-written)
 
-🔤 26,728,304 Input Tokens, 145,528 Output Tokens
+🔤 30,926,799 Input Tokens, 151,455 Output Tokens
 
-💵 $135.73 Estimated AI Cost This Week
+💵 $157.03 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 37 AI Prompts
+🧠 10 AI Sessions, 31 AI Prompts
 
-Opus                     1,272 lines         █████████████████████████   100.00 % 
+Opus                     1,040 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.99% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
+🤖 AI-Driven — 80.39% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.2% of changed lines were hand-edited
+🚀 High AI Trust — 28.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,5 +166,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 18:49:30 UTC
+ Last Updated on 11/08/2026 01:16:05 UTC
 <!--END_SECTION:waka-->
