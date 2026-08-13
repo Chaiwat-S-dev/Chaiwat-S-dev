@@ -105,48 +105,47 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       4 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
-YAML                     3 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
-JSON                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Git Config               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Go                       2 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+YAML                     2 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   38.96 % 
+JSON                     46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Git Config               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 37 mins       ███████████████████░░░░░░   77.97 % 
-Claude Code              2 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+VS Code                  5 hrs 33 mins       ████████████████████░░░░░   78.94 % 
+Claude Code              1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
 
 🐱‍💻 Projects: 
-gisx-outbound-gateway    5 hrs 2 mins        █████████████░░░░░░░░░░░░   51.61 % 
-fluxcd                   3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
-api                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-gisx-api-common          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-gisx-api-core            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+gisx-outbound-gateway    3 hrs 18 mins       ████████████░░░░░░░░░░░░░   47.02 % 
+fluxcd                   2 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.77 % 
+api                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+gisx-api-common          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+gisx-api-core            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 💻 Operating System: 
-Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 59 mins (30.52%)
+⏱ AI Coding Time: 1 hr 52 mins (26.75%)
 
-✍️ 1,028 lines written by AI, 251 lines written by hand (80.38% AI-written)
+✍️ 179 lines written by AI, 208 lines written by hand (46.25% AI-written)
 
-🔤 40,715,012 Input Tokens, 146,926 Output Tokens
+🔤 34,822,854 Input Tokens, 94,913 Output Tokens
 
-💵 $206.89 Estimated AI Cost This Week
+💵 $176.49 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 19 AI Prompts
 
-Opus                     1,039 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     186 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.38% of written lines came from AI
-📝 Concise Prompter — average 335 characters per prompt
+⚖️ Balanced with AI — 46.25% of written lines came from AI
+📝 Concise Prompter — average 293 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 28.49% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 65.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -166,5 +165,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/08/2026 18:54:56 UTC
+ Last Updated on 13/08/2026 01:26:08 UTC
 <!--END_SECTION:waka-->
