@@ -60,7 +60,7 @@ I am software embeded engineer for 3 years and now I'm backend developer at Swif
 <a href="https://github.com/Chaiwat-S-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaiwat-S-dev&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C932%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C932%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2021%20mins-blue?style=flat)
 
@@ -105,47 +105,47 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       10 hrs 31 mins      ████████████████████░░░░░   78.22 % 
-Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Bru                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Go                       10 hrs 28 mins      ████████████████████░░░░░   78.52 % 
+Other                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Bru                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 9 mins        █████████████████░░░░░░░░   68.01 % 
-Claude Code              4 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.99 % 
+VS Code                  9 hrs 7 mins        █████████████████░░░░░░░░   68.43 % 
+Claude Code              4 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.57 % 
 
 🐱‍💻 Projects: 
-gisx-outbound-gateway    8 hrs 10 mins       ███████████████░░░░░░░░░░   60.75 % 
-fluxcd                   3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-gisx-api-common          1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-postman-sq3              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+gisx-outbound-gateway    8 hrs 3 mins        ███████████████░░░░░░░░░░   60.37 % 
+fluxcd                   3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+gisx-api-common          1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+postman-sq3              20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 api                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      13 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 34 mins (48.79%)
+⏱ AI Coding Time: 6 hrs 28 mins (48.53%)
 
-✍️ 1,780 lines written by AI, 167 lines written by hand (91.42% AI-written)
+✍️ 1,780 lines written by AI, 165 lines written by hand (91.52% AI-written)
 
-🔤 109,555,328 Input Tokens, 263,534 Output Tokens
+🔤 108,761,254 Input Tokens, 260,588 Output Tokens
 
-💵 $554.36 Estimated AI Cost This Week
+💵 $550.32 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 56 AI Prompts
+🧠 7 AI Sessions, 54 AI Prompts
 
 Opus                     1,900 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.42% of written lines came from AI
-📄 Detailed Prompter — average 768 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 11.17% of changed lines were hand-edited
+🤖 AI-Driven — 91.52% of written lines came from AI
+📄 Detailed Prompter — average 791 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 11.05% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -165,5 +165,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 19:49:56 UTC
+ Last Updated on 06/09/2026 02:31:22 UTC
 <!--END_SECTION:waka-->
