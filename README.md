@@ -105,41 +105,41 @@ Sunday                   25 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Go                       1 hr 42 mins        ███████████████████████░░   91.17 % 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Go                       3 hrs 7 mins        ████████████████████████░   96.04 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 36 mins        ██████████████████████░░░   86.19 % 
-Claude Code              15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+VS Code                  2 hrs 23 mins       ██████████████████░░░░░░░   73.36 % 
+Claude Code              52 mins             ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 
 🐱‍💻 Projects: 
-gisx-outbound-gateway    1 hr 52 mins        █████████████████████████   100.00 % 
+gisx-outbound-gateway    3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 52 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (14.7%)
+⏱ AI Coding Time: 53 mins (27.16%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 1,936 lines written by AI, 12 lines written by hand (99.38% AI-written)
 
-🔤 271,668 Input Tokens, 41,570 Output Tokens
+🔤 474,616 Input Tokens, 109,337 Output Tokens
 
-💵 $3.03 Estimated AI Cost This Week
+💵 $7.09 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 4 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
-Opus                     4 lines             █████████████████████████   100.00 % 
+Opus                     1,943 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 80.95% of changed lines were hand-edited
+🤖 AI-Driven — 99.38% of written lines came from AI
+📚 Verbose Prompter — average 2,365 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 1.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -159,5 +159,5 @@ C#                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chaiwat-S-dev/Chaiwat-S-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 12:09:08 UTC
+ Last Updated on 29/10/2026 22:21:02 UTC
 <!--END_SECTION:waka-->
